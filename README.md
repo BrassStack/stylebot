@@ -1,3 +1,4 @@
+> NOTE: ankit has resumed development of Stylebot (thank you!!!) so I am archiving this fork.
 # Stylebot
 
 ![CI](https://github.com/ankit/stylebot/workflows/CI/badge.svg)
